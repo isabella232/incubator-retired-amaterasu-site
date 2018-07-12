@@ -337,9 +337,12 @@ img::-moz-selection {
 
 body {
   -webkit-tap-highlight-color: #1F181A; }
+<<<<<<< HEAD
 
 .mt {
   margin-top: 2%; }
 
 .ml-5 {
   margin-left: 5%; }
+=======
+>>>>>>> bb8659b5367296177fc8790dd68d3c04fd493d35
